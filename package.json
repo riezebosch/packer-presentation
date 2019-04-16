@@ -1,0 +1,15 @@
+{
+  "name": "packer-presentatie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "kc-serve --theme @riezebosch/my-theme"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@infosupport/kc-serve": "^2.1.1",
+    "@riezebosch/my-theme": "0.0.5"
+  }
+}
